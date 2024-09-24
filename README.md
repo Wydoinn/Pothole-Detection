@@ -1,7 +1,7 @@
 # Pothole Detection
 
 
-## Project Overview
+## Overview
 
 This project implements an advanced pothole detection system using computer vision and deep learning techniques. By leveraging the YOLOv8-small model, we've created a robust and efficient solution for identifying and localizing potholes in road images and videos.
 
