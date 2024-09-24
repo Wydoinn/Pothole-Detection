@@ -42,7 +42,7 @@ This project implements an advanced pothole detection system using computer visi
 
 3. Run the Streamlit app:
    ```
-   streamlit run app/app.py
+   streamlit run app.py
    ```
 
 
