@@ -1,0 +1,6 @@
+# Core dependencies
+ultralytics==8.2.92
+opencv-python==4.10.0.84
+numpy==1.25.2
+supervision==0.23.0
+streamlit==1.38.0
