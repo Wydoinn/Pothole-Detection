@@ -22,7 +22,7 @@ This project implements an advanced pothole detection system using computer visi
 ## Technology Stack
 
 - Deep Learning Framework: YOLO (You Only Look Once) v8
-- Computer Vision: OpenCV, Supervision
+- Computer Vision: OpenCV and Supervision
 - Data Processing: NumPy
 - UI: Streamlit
 
