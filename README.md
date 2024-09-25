@@ -16,7 +16,7 @@ This project implements an advanced pothole detection system using computer visi
 - YOLOv8-small Model: Utilizes the compact yet powerful YOLOv8-small architecture for real-time object detection and segmentation.
 - Multi-format Input: Processes both images and videos for versatile application.
 - Real-time Detection: Achieves fast inference times, suitable for mobile and edge devices.
-- User-friendly Interface: Implemented with Streamlit for easy interaction and visualization.
+- User-friendly Interface: Implemented with Streamlit for easy interaction.
 
 
 ## Technology Stack
