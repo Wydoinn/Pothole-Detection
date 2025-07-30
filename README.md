@@ -49,4 +49,4 @@ This project implements an advanced pothole detection system using computer visi
 ## Usage
 
 - Use the Streamlit app to upload images or videos for pothole detection.
-- Adjust confidence thresholds and other parameters as needed.
+- Adjust confidence thresholds and other parameters as needed. 
